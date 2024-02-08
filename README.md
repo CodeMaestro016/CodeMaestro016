@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **avishkapiyumal16@gmail.com**
 
-- ⚡ Fun fact **Call me as Piyu**
+- ⚡ Fun fact **Call me as "Piyu"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
