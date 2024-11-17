@@ -6,11 +6,11 @@
 
 <p align="center"> <a href="https://twitter.com/impiyumal16" target="blank"><img src="https://img.shields.io/twitter/follow/impiyumal16?logo=twitter&style=for-the-badge" alt="impiyumal16" /></a> </p>
 
-- 🔭 I’m currently working on **Java Project**
+- 🔭 I’m currently working on **ML Project**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Java,Html,CSS,JS,php,C++,C**
+- 💬 Ask me about **Java,Html,CSS,JS,php,C++,C,react**
 
 - 📫 How to reach me **avishkapiyumal16@gmail.com**
 
